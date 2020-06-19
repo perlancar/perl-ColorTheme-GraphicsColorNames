@@ -23,7 +23,7 @@ our %THEME = (
     examples => [
         {
             summary => 'Show Graphics::ColorNames::WWW',
-            args => {schema => 'WWW'},
+            args => {scheme => 'WWW'},
         },
     ],
 );
