@@ -20,6 +20,12 @@ our %THEME = (
             pos => 0,
         },
     },
+    examples => [
+        {
+            summary => 'Show Graphics::ColorNames::WWW',
+            args => {schema => 'WWW'},
+        },
+    ],
 );
 
 sub new {
